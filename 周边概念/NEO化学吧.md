@@ -3,7 +3,7 @@ NEO化学吧
 
 NEO化学吧，是2008年6月28日百度化学吧被封之后成立的论坛，由化学吧部分吧友建设运行维护。
 
-NEO化学吧的网址为：www.huaxueba.com
+NEO化学吧的网址为：[www.huaxueba.com](http://www.huaxueba.com)
 
 成立
 -----
